@@ -1,0 +1,330 @@
+Index_No,Chemical_Name,CAS_No,Hazard_Statement_Codes,SCL_M_Factors
+006-005-00-4,thiram (ISO); tetramethylthiuram disulphide,137-26-8,H332 | H302 | H373 ** | H315 | H319 | H317 | H400 | H410 |,M=10 |
+006-011-00-7,carbaryl (ISO); 1-naphthyl methylcarbamate,63-25-2,H351 | H332 | H302 | H400 |,M=100 |
+006-012-00-2,ziram (ISO); zinc bis dimethyldithiocarbamate,137-30-4,H330 | H302 | H335 | H373 ** | H318 | H317 | H400 | H410 |,M=100 |
+006-035-00-8,"pirimicarb (ISO); 2-(dimethylamino)-5,6-dimethylpyrimidin-4-yl dimethylcarbamate",23103-98-2,H351 | H331 | H301 | H317 | H400 | H410 |,M=10 | M=100 |
+006-044-00-7,"isoproturon (ISO); | 3-(4-isopropylphenyl)-1,1-dimethylurea",34123-59-6,H351 | H373 (blood) | H400 | H410 |,M=10 | M=10 |
+006-045-00-2,methomyl (ISO); 1-(methylthio)ethylideneamino N-methylcarbamate,16752-77-5,H300 | H400 | H410 |,M=100 |
+006-046-00-8,"bendiocarb (ISO); 2,2-dimethyl-1,3-benzodioxol-4-yl N-methylcarbamate; 2,2-dimethyl-1,3-benzodioxol-4-yl methylcarbamate",22781-23-3,H300 | H331 | H311 | H400 | H410 |,M=10 | M=100 |
+006-069-00-3,"thiophanate-methyl (ISO); | dimethyl (1,2-phenylenedicarbamo-thioyl)biscarbamate; dimethyl 4,4′-(o-phenylene) bis(3-thioallophanate)",23564-05-8,H351 | H341 | H332 | H317 | H400 | H410 |,Inhalation: ATE = 1.7 mg/L (dusts/mists) | M=10 | M=10 |
+006-076-00-1,mancozeb (ISO); | manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt,8018-01-7,"H351 | H360D | H373 (thyroid, nervous system) | H317 | H400 | H410 |",M=10 | M=10 |
+006-077-00-7,maneb (ISO); manganese ethylenebis(dithiocarbamate) (polymeric),12427-38-2,H361d *** | H332 | H319 | H317 | H400 | H410 |,M=10 |
+006-086-00-6,fenoxycarb (ISO); ethyl [2-(4-phenoxyphenoxy)ethyl]carbamate,72490-01-8,H351 | H400 | H410 |,M=1 | M=10000 |
+006-087-00-1,"furathiocarb (ISO); 2,3-dihydro-2,2-dimethyl-7-benzofuryl 2,4-dimethyl-6-oxa-5-oxo-3-thia-2,4-diazadecanoate",65907-30-4,H330 | H301 | H373 ** | H315 | H319 | H317 | H400 | H410 |,M=100 |
+006-103-00-7,"N,N''-(methylenedi-4,1-phenylene)bis[N'-octyl]urea",-,H318 | H334 | H400 | H410 |,M=100 |
+011-007-00-3,propoxycarbazone-sodium,181274-15-7,H400 | H410 |,M=10 |
+014-018-00-1,octamethylcyclotetrasiloxane; [D4],556-67-2,H361f *** | H410 |,M=10 |
+014-036-00-X,(4-ethoxyphenyl)(3-(4-fluoro-3-phenoxyphenyl)propyl)dimethylsilane,105024-66-6,H360F *** | H400 | H410 |,M=1000 |
+015-003-00-2,calcium phosphide; tricalcium diphosphide,1305-99-3,H260 | H330 | H300 | H311 | H318 | H400 |,M=100 |
+015-004-00-8,aluminium phosphide,20859-73-8,H260 | H330 | H300 | H311 | H400 |,M=100 |
+015-005-00-3,magnesium phosphide; trimagnesium diphosphide,12057-74-8,H260 | H330 | H300 | H311 | H400 |,M=100 |
+015-006-00-9,trizinc diphosphide; zinc phosphide,1314-84-7,H260 | H300 | H400 | H410 |,M=100 |
+015-019-00-X,"dichlorvos (ISO); 2,2-dichlorovinyl dimethyl phosphate",62-73-7,H330 | H311 | H301 | H317 | H400 |,M=1000 |
+015-020-00-5,mevinphos (ISO); 2-methoxycarbonyl-1-methylvinyl dimethyl phosphate,7786-34-7,H310 | H300 | H400 | H410 |,M=10000 |
+015-021-00-0,"trichlorfon (ISO); dimethyl 2,2,2-trichloro-1-hydroxyethylphosphonate",52-68-6,H302 | H317 | H400 | H410 |,M=1000 |
+015-027-00-3,"sulfotep (ISO); O,O,O,O-tetraethyl dithiopyrophosphate",3689-24-5,H310 | H300 | H400 | H410 |,M=1000 |
+015-033-00-6,"phorate (ISO); O,O-diethyl ethylthiomethyl phosphorodithioate",298-02-2,H310 | H300 | H400 | H410 |,M=1000 |
+015-034-00-1,"parathion (ISO); O,O-diethyl O-4-nitrophenyl phosphorothioate",56-38-2,H330 | H300 | H311 | H372 ** | H400 | H410 |,M=100 |
+015-035-00-7,"parathion - methyl (ISO); O,O-dimethyl O-4-nitrophenyl phosphorothioate",298-00-0,H226 | H330 | H300 | H311 | H373 ** | H400 | H410 |,M=100 |
+015-041-00-X,"malathion (ISO); 1,2-bis(ethoxycarbonyl)ethyl O,O-dimethyl phosphorodithioate; [containing ≤ 0.03 % isomalathion]",121-75-5,H302 | H317 | H400 | H410 |,M=1000 |
+015-042-00-5,"chlorthion; O-(3-chloro-4-nitrophenyl) O,O-dimethyl phosphorothioate",500-28-7,H332 | H312 | H302 | H400 | H410 |,M=100 |
+015-047-00-2,"ethion (ISO); O,O,O',O'-tetraethyl S,S'-methylenedi (phosphorodithioate); diethion",563-12-2,H301 | H312 | H400 | H410 |,M=10000 |
+015-048-00-8,"fenthion (ISO); O,O-dimethyl-O-(4-methylthion-m-tolyl) phosphorothioate",55-38-9,H341 | H331 | H312 | H302 | H372 ** | H400 | H410 |,M=100 |
+015-055-00-6,"naled (ISO); 1,2-dibromo-2,2-dichloroethyl dimethyl phosphate",300-76-5,H312 | H302 | H315 | H319 | H400 |,M=1000 |
+015-056-00-1,"azinphos-ethyl (ISO); O,O-diethyl 4-oxobenzotriazin-3-ylmethyl phosphorodithioate",2642-71-9,H300 | H311 | H400 | H410 |,M=100 |
+015-063-00-X,"dioxathion (ISO); 1,4-dioxan-2,3-diyl-O,O,O',O'-tetraethyl di(phosphorodithioate)",78-34-2,H330 | H300 | H311 | H400 | H410 |,M=1000 |
+015-067-00-1,"phosalone (ISO); S-(6-chloro-2-oxobenzoxazolin-3-ylmethyl) O,O-diethyl phosphorodithioate",2310-17-0,H301 | H332 | H312 | H317 | H400 | H410 |,M=1000 |
+015-076-00-0,"potasan; O,O-diethyl O-(4-methylcoumarin-7-yl) phosphorothioate",299-45-6,H310 | H330 | H300 | H400 | H410 |,M=1000 |
+015-084-00-4,"chlorpyrifos (ISO); O,O-diethyl O-3,5,6-trichloro-2-pyridyl phosphorothioate",2921-88-2,H301 | H400 | H410 |,M=10000 |
+015-096-00-X,"oxydisulfoton (ISO); O, O-diethyl S-2-ethylsulphinylethyl phosphorodithioate",2497-07-6,H300 | H311 | H400 | H410 |,M=10 |
+015-097-00-5,phenthoate (ISO); ethyl 2-(dimethoxyphosphinothioylthio)-2-phenylacetate,2597-03-7,H312 | H302 | H400 | H410 |,M=100 |
+015-100-00-X,phoxim (ISO); α-(diethoxyphosphinothioylimino) phenylacetonitrile,14816-18-3,H361f *** | H302 | H317 | H400 | H410 |,M=1000 |
+015-101-00-5,"phosmet (ISO); | S-[(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)methyl] O,O-di-methyl phosphorodithioate; | O,O-dimethyl-S-phthalimido-methyl phosphorodithioate",732-11-6,H361f | H301 | H332 | H370 (nervous system) | H400 | H410 |,M=100 | M=100 |
+015-108-00-3,"bromophos (ISO); O-4-bromo-2,5-dichlorophenyl O,O-dimethyl phosphorothioate",2104-96-3,H302 | H400 | H410 |,M=100 |
+015-109-00-9,crotoxyphos (ISO); 1-phenylethyl 3-(dimethoxyphosphinyloxy) isocrotonate,7700-17-6,H311 | H301 | H400 | H410 |,M=10 |
+015-113-00-0,"tolclofos-methyl (ISO); | O-(2,6-dichloro-p-tolyl)-O,O-dimethyl thiophosphate",57018-04-9,H317 | H400 | H410 |,M=1 | M=1 |
+015-114-00-6,"chlormephos (ISO); S-chloromethyl O,O-diethyl phosphorodithioate",24934-91-6,H310 | H300 | H400 | H410 |,M=10 |
+015-115-00-1,"chlorthiophos (ISO); [isomeric reaction mass in which O-2,5-dichlorophenyl-4-methylthiophenyl O,O-diethyl phosphorothioate predominates]",21923-23-9,H300 | H311 | H400 | H410 |,M=1000 |
+015-122-00-X,"etrimfos (ISO); O-6-ethoxy-2-ethylpyrimidin-4-yl O,O-dimethylphosphorothioate",38260-54-7,H302 | H400 | H410 |,M=10 |
+015-123-00-5,fenamiphos (ISO); ethyl-4-methylthio-m-tolyl isopropyl phosphoramidate,22224-92-6,H330 | H310 | H300 | H319 | H400 | H410 |,M=100 | M=100 |
+015-126-00-1,"heptenophos (ISO); 7-chlorobicyclo(3.2.0)hepta-2,6-dien-6-yl dimethyl phosphate",23560-59-0,H301 | H400 | H410 |,M=100 |
+015-128-00-2,"IPSP; S-ethylsulphinylmethyl O,O-diisopropylphosphorodithioate",5827-05-4,H310 | H301 | H400 | H410 |,M=100 |
+015-129-00-8,isofenphos (ISO); O-ethyl O-2-isopropoxycarbonylphenyl-isopropylphosphoramidothioate,25311-71-1,H311 | H301 | H400 | H410 |,M=100 |
+015-132-00-4,"S-(chlorophenylthiomethyl) O,O-dimethylphosphorodithioate; methylcarbophenothione",953-17-3,H311 | H301 | H400 | H410 |,M=1000 |
+015-133-00-X,"piperophos (ISO); S-2-methylpiperidinocarbonylmethyl-O,O-dipropyl phosphorodithioate",24151-93-7,H302 | H400 | H410 |,M=10 |
+015-134-00-5,"pirimiphos-methyl (ISO); O-[2-(diethylamino)-6-methylpyrimidin-4-yl] O,O-dimethyl phosphorothioate",29232-93-7,H302 | H372 (nervous system) | H400 | H410 |,Oral: ATE = 1414 mg/kg bw | M=1000 | M=1000 |
+015-135-00-0,profenofos (ISO); O-(4-bromo-2-chlorophenyl) O-ethyl S-propyl phosphorothioate,41198-08-7,H332 | H312 | H302 | H400 | H410 |,M=1000 |
+015-136-00-6,trans-isopropyl-3-[[(ethylamino)methoxyfosfinothioyl]oxy]crotonate; isopropyl 3-[[(ethylamino)methoxyphosphinothioyl]oxy]isocrotonate; propetamphos (ISO),31218-83-4,H301 | H400 | H410 |,M=100 |
+015-138-00-7,"quinalphos (ISO); O,O-diethyl-O-quinoxalin-2-yl phosphorothioate",13593-03-8,H301 | H312 | H400 | H410 |,M=1000 |
+015-139-00-2,"terbufos (ISO); S-tert-butylthiomethyl O,O-diethylphosphorodithioate",13071-79-9,H310 | H300 | H400 | H410 |,M=1000 |
+015-140-00-8,"triazophos (ISO); O,O-diethyl-O-1-phenyl-1H-1,2,4-triazol-3-yl phosphorothioate",24017-47-8,H331 | H301 | H312 | H400 | H410 |,M=100 |
+015-186-00-9,"chlorpyrifos-methyl (ISO),; O, O-dimethyl O-3,5,6-trichloro-2-pyridyl phosphorothioate",5598-13-0,H317 | H400 | H410 |,M=10000 |
+016-084-00-7,"prosulfuron (ISO); 1-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)-3-[2-(3,3,3-trifluoropropyl)phenylsulfonyl]urea",94125-34-5,H302 | H400 | H410 |,M=100 |
+016-096-00-2,"thifensulfuron-methyl (ISO); | methyl 3-(4-methoxy-6-methyl-1,3,5-triazin-2-ylcarbamoylsulfamoyl)thiophene-2-carboxylate",79277-27-3,H400 | H410 |,M=100 | M=100 |
+016-098-00-3,dimethyl disulphide,624-92-0,H225 | H331 | H301 | H336 | H370 (upper respiratory tract) (Inhalation) | H319 | H317 | H400 | H410 |,Inhalation: ATE = 5 mg/L (Vapours) | Oral: ATE = 190 mg/kg bw | M=1 | M=10 |
+017-001-00-7,chlorine,7782-50-5,H270 |  | H331 | H335 | H315 | H319 | H400 |,M=100 |
+017-011-00-1,"sodium hypochlorite, solution ... % Cl active",7681-52-9,H314 | H318 | H400 | H410 |,EUH031: C ≥ 5 % | M=10 | M=1 |
+017-012-00-7,calcium hypochlorite,7778-54-3,H272 | H302 | H314 | H400 |,"Skin Corr. 1B; H314: C ≥ 5 % | Skin Irrit. 2; H315: 1 % ≤ C < 5 % | Eye Dam. 1; H318: 3 % ≤ C < 5 % | Eye Irrit. 2; H319: 0,5 % < C < 3 % | M=10 |"
+017-026-00-3,chlorine dioxide,10049-04-4,H270 |  | H330 | H314 | H400 |,M=10 |
+017-026-01-0,chlorine dioxide … %,10049-04-4,H301 | H314 | H400 |,"STOT SE 3; H335: C ≥ 3 % | Skin Corr. 1B; H314: C ≥ 5 % | Skin Irrit. 2; H315: 1 % ≤ C < 5 % | Eye Dam. 1; H318: 3 % ≤ C < 5 % | Eye Irrit. 2; H319: 0,3 % ≤ C < 3 % | M=10 |"
+027-002-00-4,cobalt oxide,1307-96-6,H302 | H317 | H400 | H410 |,M=10 |
+027-003-00-X,cobalt sulfide,1317-42-6,H317 | H400 | H410 |,M=10 |
+027-004-00-5,cobalt dichloride,7646-79-9,H350i | H341 | H360F *** | H302 | H334 | H317 | H400 | H410 |,"Carc. 1B; H350i: C ≥ 0,01 % | M=10 |"
+027-005-00-0,cobalt sulfate,10124-43-3,H350i | H341 | H360F *** | H302 | H334 | H317 | H400 | H410 |,"Carc. 1B; H350i: C ≥ ,01 % | M=10 |"
+027-006-00-6,cobalt di(acetate),71-48-7,H350i | H341 | H360F *** | H334 | H317 | H400 | H410 |,"Carc. 1B; H350i: C ≥ 0,01 % | M=10 |"
+027-009-00-2,cobalt dinitrate,10141-05-6,H350i | H341 | H360F *** | H334 | H317 | H400 | H410 |,"Carc. 1B; H350i: C ≥ 0,01 % | M=10 |"
+027-010-00-8,cobalt carbonate,513-79-1,H350i | H341 | H360F *** | H334 | H317 | H400 | H410 |,"Carc. 1B; H350i: C ≥ 0,01 % | M=10 |"
+028-009-00-5,nickel sulfate,7786-81-4,H350i | H341 | H360D *** | H332 | H302 | H372 ** | H315 | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Irrit. 2; H315: C ≥ 20 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-011-00-6,nickel dichloride,7718-54-9,H350i | H341 | H360D *** | H331 | H301 | H372 ** | H315 | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % < C < 1 % | Skin Irrit. 2; H315: C ≥ 20 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-012-00-1,"nickel dinitrate [1] | nitric acid, nickel salt [2] |",13138-45-9 [1] | 14216-75-2 [2] |,H272 | H350i | H341 | H360D *** | H332 | H302 | H372 ** | H315 | H318 | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: ,1 % < C < 1 % | Skin Irrit. 2; H315: C ≥ 20 % | Skin Sens. 1; H317: C > ,01 % | M=1 |"
+028-014-00-2,"slimes and sludges, copper electrolytic refining, decopperised, nickel sulfate",92129-57-2,H350i | H341 | H360D *** | H332 | H302 | H372 ** | H315 | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-016-00-3,"nickel diperchlorate; perchloric acid, nickel(II) salt",13637-71-3,H350i | H341 | H360D *** | H372 ** | H314 | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-017-00-9,nickel dipotassium bis(sulfate) [1] | diammonium nickel bis(sulfate)  [2] |,13842-46-1 [1] | 15699-18-0 [2] |,H350i | H341 | H360D *** | H332 | H302 | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-018-00-4,nickel bis(sulfamidate); | nickel sulfamate,13770-89-3,H350i | H341 | H360D *** | H302 | H372 ** | H334 | H317 | H400 | H410 |,"Oral: ATE = 853 mg/kg bw | STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: ,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ ,01 % | M=1 |"
+028-019-00-X,nickel bis(tetrafluoroborate),14708-14-6,H350i | H341 | H360D *** | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-021-00-0,"nickel diformate [1] | formic acid, nickel salt [2] | formic acid, copper nickel salt  [3] |",3349-06-2 [1] | 15843-02-4 [2] | 68134-59-8 [3] |,H350i | H341 | H360D *** | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-022-00-6,nickel di(acetate) [1] | nickel acetate [2] |,373-02-4 [1] | 14998-37-9 [2] |,H350i | H341 | H360D *** | H332 | H302 | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-024-00-7,nickel dibenzoate,553-71-9,H350i | H341 | H360D *** | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-025-00-2,nickel bis(4-cyclohexylbutyrate),3906-55-6,H350i | H341 | H360D *** | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-026-00-8,nickel(II) stearate; nickel(II) octadecanoate,2223-95-2,H350i | H341 | H360D *** | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-027-00-3,nickel dilactate,16039-61-5,H350i | H341 | H360D *** | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-028-00-9,nickel(II) octanoate,4995-91-9,H350i | H341 | H360D *** | H372 ** | H314 | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-029-00-4,nickel difluoride [1] | nickel dibromide [2] | nickel diiodide [3] | nickel potassium fluoride  [4] |,10028-18-9 [1] | 13462-88-9 [2] | 13462-90-3 [3] | 11132-10-8 [4] |,H350i | H341 | H360D *** | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-030-00-X,nickel hexafluorosilicate,26043-11-8,H350i | H341 | H360D *** | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-031-00-5,nickel selenate,15060-62-5,H350i | H341 | H360D *** | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-046-00-7,nickel dithiocyanate,13689-92-4,H350i | H341 | H360D *** | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-047-00-2,nickel dichromate,15586-38-6,H350i | H341 | H360D *** | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+028-053-00-5,"nickel dichlorate [1] | nickel dibromate [2] | ethyl hydrogen sulfate, nickel(II) salt  [3] |",67952-43-6 [1] | 14550-87-9 [2] | 71720-48-4 [3] |,H350i | H341 | H360D *** | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 %1 | M=1 |"
+028-054-00-0,"nickel(II) trifluoroacetate [1] | nickel(II) propionate [2] | nickel bis(benzenesulfonate) [3] | nickel(II) hydrogen citrate [4] | citric acid, ammonium nickel salt [5] | citric acid, nickel salt [6] | nickel bis(2-ethylhexanoate) [7] | 2-ethylhexanoic acid, nickel salt [8] | dimethylhexanoic acid nickel salt [9] | nickel(II) isooctanoate [10] | nickel isooctanoate [11] | nickel bis(isononanoate) [12] | nickel(II) neononanoate [13] | nickel(II) isodecanoate [14] | nickel(II) neodecanoate [15] | neodecanoic acid, nickel salt [16] | nickel(II) neoundecanoate [17] | bis(.sc.d.sc.-gluconato-O1,O2)nickel [18] | nickel 3,5-bis(tert-butyl)-4-hydroxybenzoate (1:2) [19] | nickel(II) palmitate [20] | (2-ethylhexanoato-O)(isononanoato-O)nickel [21] | (isononanoato-O)(isooctanoato-O)nickel [22] | (isooctanoato-O)(neodecanoato-O)nickel [23] | (2-ethylhexanoato-O)(isodecanoato-O)nickel [24] | (2-ethylhexanoato-O)(neodecanoato-O)nickel [25] | (isodecanoato-O)(isooctanoato-O)nickel [26] | (isodecanoato-O)(isononanoato-O)nickel [27] | (isononanoato-O)(neodecanoato-O)nickel [28] | fatty acids, C6-19-branched, nickel salts [29] | fatty acids, C8-18 and C18-unsaturated, nickel salts [30] | 2,7-naphthalenedisulfonic acid, nickel(II) salt [31] |",16083-14-0 [1] | 3349-08-4 [2] | 39819-65-3 [3] | 18721-51-2 [4] | 18283-82-4 [5] | 22605-92-1 [6] | 4454-16-4 [7] | 7580-31-6 [8] | 93983-68-7 [9] | 29317-63-3 [10] | 27637-46-3 [11] | 84852-37-9 [12] | 93920-10-6 [13] | 85508-43-6 [14] | 85508-44-7 [15] | 51818-56-5 [16] | 93920-09-3 [17] | 71957-07-8 [18] | 52625-25-9 [19] | 13654-40-5 [20] | 85508-45-8 [21] | 85508-46-9 [22] | 84852-35-7 [23] | 84852-39-1 [24] | 85135-77-9 [25] | 85166-19-4 [26] | 84852-36-8 [27] | 85551-28-6 [28] | 91697-41-5 [29] | 84776-45-4 [30] | 72319-19-8 [31] |,H350i | H341 | H360D *** | H372 ** | H334 | H317 | H400 | H410 |,"STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | Skin Sens. 1; H317: C ≥ 0,01 % | M=1 |"
+029-002-00-X,dicopper oxide; | copper (I) oxide,1317-39-1,H332 | H302 | H318 | H400 | H410 |,Inhalation: ATE = 3.34 mg/L (dusts/mists) | Oral: ATE = 500 mg/kg bw | M=100 | M=10 |
+029-015-00-0,copper thiocyanate,1111-67-7,H400 | H410 |,M=10 | M=10 |
+029-016-00-6,copper(II) oxide,1317-38-0,H400 | H410 |,M=100 | M=10 |
+029-017-00-1,dicopper chloride trihydroxide,1332-65-6,H301 | H332 | H400 | H410 |,Oral: ATE = 299 mg/kg bw | Inhalation: ATE = 2.83 mg/L (dusts/mists) | M=10 | M=10 |
+029-018-00-7,tetracopper hexahydroxide sulphate [1] | tetracopper hexahydroxide sulphate hydrate [2] |,1333-22-8 [1] | 12527-76-3 [2] |,H302 | H400 | H410 |,Oral: ATE = 500 mg/kg bw | M=10 | M=10 |
+029-019-01-X,copper flakes (coated with aliphatic acid),,H331 | H302 | H319 | H400 | H410 |,Inhalation: ATE = 0.733 mg/L (dusts/mists) | Oral: ATE = 500 mg/kg bw | M=10 | M=10 |
+029-020-00-8,copper(II) carbonate--copper(II) hydroxide (1:1),12069-69-1,H332 | H302 | H319 | H400 | H410 |,Inhalation: ATE = 1.2 mg/L (dusts/mists) | Oral: ATE = 500 mg/kg bw | M=10 | M=10 |
+029-021-00-3,copper dihydroxide; copper(II) hydroxide,20427-59-2,H330 | H302 | H318 | H400 | H410 |,Inhalation: ATE = 0.47 mg/L (dusts/mists) | Oral: ATE = 500 mg/kg bw | M=10 | M=10 |
+029-022-00-9,bordeaux mixture; | reaction products of copper sulphate with calcium dihydroxide,8011-63-0,H332 | H318 | H400 | H410 |,Inhalation: ATE = 1.97 mg/L (dusts/mists) | M=10 | M=1 |
+029-023-00-4,copper sulphate pentahydrate,7758-99-8,H302 | H318 | H400 | H410 |,Oral: ATE = 481 mg/kg bw | M=10 | M=1 |
+029-025-00-5,"bis(N-hydroxy-N-ni­trosocyclohexylamina­to-O,O’)copper; bis(N-cyclohexyl-diazenium-dioxy)-copper; [Cu-HDO]",312600-89-8,H228 | H302 | H373 (liver) | H318 | H400 | H410 |,Oral: ATE = 360 mg/kg bw | M=1 | M=1 |
+047-003-00-3,"silver zinc zeolite (Zeolite, LTA framework type, surface-modified with silver and zinc ions) | [This entry covers LTA (Linde Type A) framework type zeolite which has been surface-modified with both silver and zinc ions at contents Ag+ 0,5 %-6 %, Zn2 + 5 %-16 %, and potentially with phosphorus, NH4+, Mg2+ and/or Ca2+ each at level < 3 %]",130328-20-0,H361d | H315 | H318 | H400 | H410 |,M=100 | M=100 |
+050-002-00-0,cyhexatin (ISO); hydroxytricyclohexylstannane; tri(cyclohexyl)tin hydroxide,13121-70-5,H332 | H312 | H302 | H400 | H410 |,M=1000 |
+050-003-00-6,fentin acetate (ISO); triphenyltin acetate,900-95-8,H351 | H361d *** | H330 | H311 | H301 | H335 | H372 ** | H315 | H318 | H400 | H410 |,M=10 |
+050-004-00-1,fentin hydroxide (ISO); triphenyltin hydroxide,76-87-9,H351 | H361d *** | H330 | H311 | H301 | H335 | H372 ** | H315 | H318 | H400 | H410 |,M=10 |
+050-008-00-3,"tributyltin compounds, with the exception of those specified elsewhere in this annex",,H360FD | H301 | H312 | H372 ** | H315 | H319 | H400 | H410 |,"* | STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,25 % ≤ C < 1 % | Skin Irrit. 2; H315: C ≥ 1 % | Eye Irrit. 2; H319: C ≥ 1 % | M=10 |"
+050-011-00-X,"triphenyltin compounds, with the exception of those specified elsewhere in this Annex",-,H331 | H311 | H301 | H400 | H410 |,* | M=100 |
+050-022-00-X,dibutyltin dichloride; (DBTC),683-18-1,H341 | H360FD | H330 | H301 | H312 | H372 ** | H314 | H400 | H410 |,"Skin Corr. 1B; H314: C ≥ 5 % | Skin Irrit. 2; H315: 0,01 % ≤ C < 5 % | Eye Dam. 1; H318: 3 % ≤ C < 5 % | Eye Irrit. 2; H319: 0,01 % ≤ C < 3 % | M=10 |"
+050-023-00-5,"reaction mass of: bis[(2-ethyl-1-oxohexyl)oxy]dioctyl stannane; bis[((2-ethyl-1-oxohexyl)oxy)dioctylstannyl]oxide; bis(1-phenyl-1,3-decanedionyl)dioctyl stannane; ((2-ethyl-1-oxohexyl)oxy)-(1-phenyl-1,3-decanedionyl)dioctyl stannane",-,H373 ** | H400 | H410 |,M=10 |
+601-033-00-9,benz[a]anthracene,56-55-3,H350 | H400 | H410 |,M=100 |
+601-041-00-2,"dibenz[a,h]anthracene",53-70-3,H350 | H400 | H410 |,"Carc. 1B; H350: C ≥ 0,01 % | M=100 |"
+601-093-00-6,"1,4-dimethylnaphthalene",571-58-4,H302 | H304 | H319 | H400 | H412 |,Oral: ATE = 1300 mg/kg bw | M=1 |
+601-096-00-2,"(R)-p-mentha-1,8-diene;d-limonene",5989-27-5,H226 | H304 | H315 | H317 | H400 | H412 |,M=1 |
+602-043-00-6,"lindane (ISO); γ-HCH or γ-BHC; γ-1,2,3,4,5,6-hexachlorocyclohexane",58-89-9,H362 | H301 | H332 | H312 | H373 ** | H400 | H410 |,M=10 |
+602-050-00-4,"isodrin; (1α,4α,4aβ,5β,8β,8aβ)-1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene",465-73-6,H310 | H330 | H300 | H400 | H410 |,M=100 |
+603-085-00-8,"bronopol (INN); 2-bromo-2-nitropropane-1,3-diol",52-51-7,H312 | H302 | H335 | H315 | H318 | H400 |,M=10 |
+603-197-00-7,"tebuconazole (ISO); 1-(4-chlorophenyl)-4,4-dimethyl-3-(1,2,4-triazol-1-ylmethyl)pentan-3-ol",107534-96-3,H361d *** | H302 | H400 | H410 |,M=1 | M=10 |
+603-199-00-8,"etoxazol (ISO); (RS)-5-tert-butyl-2-[2-(2,6-difluorophenyl)-4,5-dihydro-1,3-oxazol-4-yl]phenetole",153233-91-1,H400 | H410 |,M=100 |
+603-209-00-0,"spinosad (ISO) (reaction mass of spinosyn A and spinosyn D in ratios between 95:5 to 50:50); reaction mass of 50-95% of (2R,3aS,5aR,5bS,9S,13S,14R,16aS,16bR)-2-(6-deoxy-2,3,4-tri-O-methyl-α-.sc.l.sc.-mannopyranosyloxy)-13-(4-dimethylamino-2,3,4,6-tetradeoxy-β-.sc.d.sc.-erythropyranosyloxy)-9-ethyl-2,3,3a,5a,5b,6,7,9,10,11,12,13,14,15,16a,16b-hexadecahydro-14-methyl-1H-8-oxacyclododeca[b]as-indacene-7,15-dione and 50-5% (2S,3aR,5aS,5bS,9S,13S,14R,16aS,16bS)-2-(6-deoxy-2,3,4-tri-O-methyl-α-.sc.l.sc.-mannopyranosyloxy)-13-(4-dimethylamino-2,3,4,6-tetradeoxy-β-.sc.d.sc.-erythropyranosyloxy)-9-ethyl-2,3,3a,5a,5b,6,7,9,10,11,12,13,14,15,16a,16b-hexadecahydro-4,14-dimethyl-1H-8-oxacyclododeca[b]as-indacene-7,15-dione [1] | spinosyn A [2] | spinosyn D  [3] |",131929-60-7 [2] | 131929-63-0 [3] |,H400 | H410 |,M=10 |
+603-237-00-3,"ipconazole (ISO); (1RS,2SR,5RS;1RS,2S­R,5SR)-2-(4-chloro­benzyl)-5-isopropyl-1- (1H-1,2,4-triazol-1-yl­methyl)cyclopentanol",125225-28-7,"H360D | H302 | H373 (eyes, skin, liver) | H410 |",Oral: ATE = 500 mg/kg bw | M=100 |
+603-239-00-4,"paclobutrazol (ISO); (2RS,3RS)-1-(4-chloro­phenyl)-4,4-dimethyl- 2-(1H-1,2,4-triazol-1-yl)pentan-3-ol",76738-62-0,H361d | H332 | H302 | H319 | H400 | H410 |,Inhalation: ATE = 3.13 mg/L (dusts/mists) | Oral: ATE = 490 mg/kg bw | M=10 | M=10 |
+604-005-00-4,"1,4-dihydroxybenzene; hydroquinone; quinol",123-31-9,H351 | H341 | H302 | H318 | H317 | H400 |,M=10 |
+604-014-00-3,chlorocresol; | 4-chloro-m-cresol; | 4-chloro-3-methylphenol,59-50-7,H302 | H335 | H314 | H318 | H317 | H400 | H412 |,M=1 |
+604-070-00-9,"triclosan; 2,4,4'-trichloro-2'-hydroxy-diphenyl-ether; 5-chloro-2-(2,4-dichlorophenoxy)phenol",3380-34-5,H315 | H319 | H400 | H410 |,M=100 |
+604-075-00-6,"4-(1,1,3,3-tetramethylbutyl)phenol; 4-tert-octylphenol",140-66-9,H315 | H318 | H400 | H410 |,M=10 |
+604-090-00-8,4-tert-butylphenol,98-54-4,H361f | H315 | H318 | H410 |,M=1 |
+604-091-00-3,etofenprox (ISO); 2-(4-ethoxyphenyl)-2-methylpropyl 3-phenoxybenzyl ether,80844-07-1,H362 | H400 | H410 |,M=100 | M=1000 |
+604-092-00-9,"phenol, dodecyl-, branched [1] | phenol, 2-dodecyl-, branched [2] | phenol, 3-dodecyl-, branched [3] | phenol, 4-dodecyl-, branched [4] | phenol, (tetrapropenyl) derivatives [5] |",121158-58-5 [1] | 210555-94-5 [4] | 74499-35-7 [5] |,H360F | H314 | H318 | H400 | H410 |,M=10 | M=10 |
+604-093-00-4,clorofene; | chlorophene; | 2-benzyl-4-chlorophenol,120-32-1,H351 | H361f | H332 | H373 (kidney) | H315 | H318 | H317 | H400 | H410 |,M=1 | M=100 |
+604-096-00-0,piperonyl butoxide (ISO); 2-(2-butoxyethoxy)ethyl 6-propylpiperonyl ether,51-03-6,H335 | H319 | H400 | H410,M=1 | M=1
+605-008-00-3,acrolein; prop-2-enal; acrylaldehyde,107-02-8,H225 | H330 | H300 | H311 | H314 | H400 | H410 |,"Skin Corr. 1B; H314: C ≥ 0,1 % | M=100 | M=1 |"
+605-013-00-0,"chloralose (INN); (R)-1,2-O-(2,2,2-trichloroethylidene)-α-D-glucofuranose; glucochloralose; anhydroglucochloral",15879-93-3,H301 | H332 | H336 | H400 | H410 |,M=10 | M=10 |
+605-022-00-X,"glutaral; glutaraldehyde; 1,5-pentanedial",111-30-8,H330 | H301 | H335 | H314 | H334 | H317 | H400 | H411 |,"STOT SE 3; H335: ,5 % ≤ C < 5 % | M=1 |"
+605-023-00-5,5-chloro-2-(4-chlorophenoxy)phenol; [DCPP],3380-30-1,H318 | H400 | H410 |,M=10 | M=10 |
+606-013-00-3,p-benzoquinone; quinone,106-51-4,H331 | H301 | H335 | H315 | H319 | H400 |,M=10 |
+606-014-00-9,"chlorophacinone (ISO); 2-[(4-chlorophenyl)(phenyl)acetyl]-1H-indene-1,3(2H)-dione",3691-35-8,H360D | H330 | H310 | H300 | H372 (blood) | H400 | H410 |,"Repr. 1B; H360D: C ≥ 0,003 % | STOT RE 1; H372: C ≥ 0,1 % | STOT RE 2; H373: 0,01 % ≤ C < 0,1 % | M=1 | M=1 |"
+606-054-00-7,"isoxaflutole (ISO); 5-cyclopropyl-1,2-oxazol-4-yl α,α,α-trifluoro-2-mesyl-p-tolyl ketone",141112-29-0,H361d *** | H400 | H410 |,M=10 | M=100 |
+606-138-00-3,(2-butyl-5-nitrobenzofuran-3-yl)[4-(3-dibutylaminopropoxy)phenyl]methanone,141645-23-0,H226 | H302 | H373 ** | H315 | H318 | H317 | H400 | H410 |,M=10 |
+606-143-00-0,abamectin (combination of avermectin B1a and avermectin B1b) (ISO) [1] | avermectin B1a (purity ≥80 %) [2] |,71751-41-2 [1] | 65195-55-3 [2] |,H361d | H330 | H300 | H372 (nervous system) | H400 | H410 |,"STOT RE 1; H372:  C ≥ 5 % | STOT RE 2; H373:  0,5 % ≤C<5 % | M=10000 |"
+606-144-00-6,"acequinocyl (ISO); 3-dodecyl-1,4-dioxo-1,4-dihydronaphthalen-2-yl acetate",57960-19-7,H370 (lung) (Inhalation) | H373 (blood system) | H317 | H400 | H410 |,M=1000 |
+606-145-00-1,"sulcotrione (ISO); 2-[2-chloro-4-(methylsulfonyl)benzoyl]cyclohexane-1,3-dione",99105-77-8,H361d | H373 (kidneys) | H317 | H400 | H410 |,M=1 | M=10 |
+606-149-00-3,"tembotrione (ISO); 2-{2-chloro-4-(methylsulfonyl)-3-[(2,2,2-trifluoroethoxy)methyl]benzoyl}cyclohexane-1,3-dione",335104-84-2,"H361d | H373 (eyes, kidneys, liver) | H317 | H400 | H410 |",M=100 | M=10 |
+606-152-00-X,"(5-chloro-2-methoxy-4-methyl-3-pyridyl)(4,5,6-trimethoxy-o-tolyl)methanone; pyriofenone",688046-61-9,H351 | H410 |,M=1 |
+606-154-00-0,"quinoclamine (ISO); 2-amino-3-chloro-1,4-naphthoquinone",2797-51-5,"H351  | H361d  | H302  | H373 (blood system, kidney) | H319  | H317 | H400 | H410",oral: | ATE = 500 mg/kg bw | M=10 | M=10
+607-049-00-2,mecoprop (ISO); 2-(4-chloro-o-tolyloxy) propionic acid; (RS)-2-(4-chloro-o-tolyloxy)propionic acid [1] | 2-(4-chloro-2-methylphenoxy)propionic acid  [2] |,7085-19-0 [1] |,H302 | H315 | H318 | H400 | H410 |,M=100 |
+607-059-00-7,"coumatetralyl (ISO); 4-hydroxy-3-(1,2,3,4-tetrahydro-1-naphthyl)coumarin",5836-29-3,H360D | H330 | H300 | H311 | H372 (blood) | H410 |,"Repr. 1B; H360D: C ≥ 0,003 % | STOT RE 1; H372: C ≥ 1 % | STOT RE 2; H373: 0,1 % ≤ C < 1 % | M=10 |"
+607-151-00-7,propargite (ISO); 2-(4-tert-butylphenoxy) cyclohexyl prop-2-ynyl sulphite,2312-35-8,H351 | H331 | H315 | H318 | H400 | H410 |,M=10 |
+607-157-00-X,"difenacoum (ISO); 3-(3-biphenyl-4-yl-1,2,3,4-tetrahydro-1-naphthyl)-4-hydroxycoumarin",56073-07-5,H360D | H330 | H310 | H300 | H372 (blood) | H400 | H410 |,"Repr. 1B; H360D: C ≥ 0,003 % | STOT RE 1; H372: C ≥ 0,02 % | STOT RE 2; H373: 0,002 % ≤ C < 0,02 % | M=10 | M=10 |"
+607-172-00-1,"brodifacoum (ISO); 4-hydroxy-3-(3-(4'-bromo-4-biphenylyl)-1,2,3,4-tetrahydro-1-naphthyl)coumarin",56073-10-0,H360D | H330 | H310 | H300 | H372 (blood) | H400 | H410 |,"Repr. 1A; H360D: C ≥ 0,003 % | STOT RE 1; H372: C ≥ 0,02 % | STOT RE 2; H373: 0,002 % ≤ C < 0,02 % | M=10 | M=10 |"
+607-177-00-9,"tribenuron-methyl (ISO); methyl 2-[N-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)-N-methylcarbamoylsulfamoyl]benzoate",101200-48-0,H373 | H317 | H400 | H410 |,M=100 | M=100 |
+607-232-00-7,pyridate (ISO); O-(6-chloro-3-phenylpyridazin-4-yl) S-octyl thiocarbonate,55512-33-9,H302 | H315 | H317 | H400 | H410 |,Oral: ATE = 500 mg/kg bw | M=1 | M=10 |
+607-252-00-6,"lambda-cyhalothrin (ISO); reaction mass of (S)-α-cyano-3-phenoxybenzyl(Z)-(1R)-cis-3-(2-chloro-3,3,3-trifluoropropenyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-3-phenoxybenzyl (Z)-(1S)-cis-3-(2-chloro-3,3,3-trifluoropropenyl)-2,2-dimethylcyclopropanecarboxylate (1:1)",91465-08-6,H330 | H301 | H312 | H400 | H410 |,M=10000 |
+607-256-00-8,azoxystrobin (ISO); methyl (E)-2-{2-[6-(2-cyanophenoxy)pyrimi­din-4-yloxy]phenyl}-3-methoxyacrylate,131860-33-8,H331 | H400 | H410 |,Inhalation: ATE = 0.7 mg/L (dusts/mists) | M=10 | M=10 |
+607-314-00-2,"ethofumesate (ISO); (RS)-2-ethoxy-2,3-di­hydro-3,3-dimethyl­benzofuran-5-yl methanesulfonate",26225-79-6,H400 | H410 |,M=1 | M=1 |
+607-319-00-X,"deltamethrin (ISO); (S)-α-cyano-3-phenoxybenzyl (1R, 3R)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate",52918-63-5,H331 | H301 | H400 | H410 |,M=1000000 |
+607-373-00-4,quizalofop-P-tefuryl (ISO); (+/-)  tetrahydrofurfuryl (R)-2-[4-(6-chloroquinoxalin-2-yloxy)phenyloxy]propionate,200509-41-7,H351 | H361fd | H302 | H373 | H400 | H410 |,M=1 | M=1 |
+607-375-00-5,"flocoumafen (ISO); reaction mass of: cis-4-hydroxy-3-(1,2,3,4-tetrahydro-3-(4-(4-trifluoromethylbenzyloxy)phenyl)-1-naphthyl)coumarin and trans-4-hydroxy-3-(1,2,3,4-tetrahydro-3-(4-(4-trifluoromethylbenzyloxy)phenyl)-1-naphthyl)coumarin",90035-08-8,H360D | H330 | H310 | H300 | H372 (blood) | H400 | H410 |,"Repr. 1B; H360D: C ≥ 0,003 % | STOT RE 1; H372: C ≥ 0,05 % | STOT RE 2; H373: 0,005 % ≤ C < 0,05 % | M=10 | M=10 |"
+607-421-00-4,"cypermethrin (ISO); | α-cyano-3-phenoxybenzyl 3-(2,2-dichlorovi-nyl)-2,2-dimethylcyclopro-panecarboxylate; cypermethrin cis/trans +/- 40/60",52315-07-8,H332 | H302 | H335 | H373 (nervous system) | H400 | H410 |,Inhalation: ATE = 3.3 mg/L (dusts/mists) | Oral: ATE = 500 mg/kg bw | M=100000 | M=100000 |
+607-422-00-X,"α-cypermethrin (ISO); racemate comprising (R)-α-cyano-3-phenoxybenzyl (1S,3S)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate; (S)-α-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate",67375-30-8,H301 | H335 | H373 ** | H400 | H410 |,M=1000 |
+607-424-00-0,"trifloxystrobin (ISO); | methyl (E)-methoxyimino- {(E)-α-[1-(α,α,α-trifluoro-m- tolyl) ethylideneaminooxy]-o- tolyl}acetate",141517-21-7,H362 | H317 | H400 | H410 |,M=100 | M=10 |
+607-434-00-5,mecoprop-P [1] and its salts;; (R)-2-(4-chloro-2-methylphenoxy)propionic acid and its salts,16484-77-8,H302 | H318 | H400 | H410 |,Oral: ATE = 431 mg/kg bw | M=10 | M=10 |
+607-621-00-1,milbemectin (ISO); [reaction mass of milbemycin A3 (CAS No 51596-10-2) and milbemycin A4 (CAS No 51596-11-3) (30:70)],-,H332 | H302 | H400 | H410 |,M=100 |
+607-625-00-3,clodinafop-propargyl (ISO),105512-06-9,H302 | H373 ** | H317 | H400 | H410 |,"Skin Sens. 1; H317: C ≥ 0,001 % | M=1 |"
+607-670-00-9,"dibutyl-3-(4-(5-ammonio-2-butyl)benzofuran-3-yl)carbonyl)phenoxy)propyl ammonium oxalate; (5-amino-2-butylbenzofuran-3-yl) [4-(3-dibutylaminopropoxy)phenyl]methanone, dioxalate",500791-70-8,H373 ** | H318 | H317 | H400 | H410 |,M=10 |
+607-699-00-7,"bifenthrin (ISO); (2-methylbiphenyl-3-yl)methyl rel-(1R,3R)-3-[(1Z)-2-chloro-3,3,3-trifluoroprop-1-en-1-yl]-2,2-dimethylcyclopropanecarboxylate",82657-04-3,H351 | H300 | H331 | H372 (nervous system) | H317 | H400 | H410 |,M=10000 | M=100000 |
+607-700-00-0,"indoxacarb (ISO); methyl (4aS)-7-chloro-2-{(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]carbamoyl}-2,5-dihydroindeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylate [1] | reaction mass of (S)- Indoxacarb and (R)- Indoxacarb 75:25; methyl 7-chloro-2-{(methoxycarbonyl)[4-(trifluoromethoxy)phenyl]carbamoyl}-2,5-dihydroindeno[1,2-e][1,3,4]oxadiazine-4a(3H)-carboxylate [2] |",173584-44-6 [1] | 144171-61-9 [2] |,"H301 | H332 | H372 (blood, nervous system, heart) | H317 | H400 | H410 |",M=1 | M=1 |
+607-707-00-9,"fenoxaprop-P-ethyl (ISO); ethyl (2R)-2-{4-[(6-chloro-1,3-benzoxazol-2-yl)oxy]phenoxy}propanoate",71283-80-2,H373 (kidneys) | H317 | H400 | H410 |,M=1 | M=1 |
+607-711-00-0,"spirotetramat (ISO); (5s,8s)-3-(2,5-dimethylphenyl)-8-methoxy-2-oxo-1-azaspiro[4,5]dec-3-en-4-yl ethyl carbonate",203313-25-1,H361fd | H335 | H319 | H317 | H400 | H410 |,M=1 | M=1 |
+607-712-00-6,"dodemorph acetate; 4-cyclododecyl-2,6-dimethylmorpholin-4-ium acetate",31717-87-0,H361d | H373 (liver) | H314 | H317 | H410 |,M=1 |
+607-713-00-1,"fenpyroximate (ISO); tert-butyl 4-[({(E)-[(1,3-dimethyl-5-phenoxy-1H-pyrazol-4-yl)methylene]amino}oxy)methyl]benzoate",134098-61-6,H330 | H301 | H317 | H400 | H410 |,M=100 | M=1000 |
+607-714-00-7,"triflusulfuron-methyl; methyl 2-({[4-(dimethylamino)-6-(2,2,2- trifluoroethoxy)-1,3,5-triazin-2- yl]carbamoyl}sulfamoyl)-3- methylbenzoate",126535-15-7,H351 | H400 | H410 |,M=100 | M=10 |
+607-715-00-2,bifenazate (ISO); isopropyl 2-(4-methoxybiphenyl-3-yl)hydrazinecarboxylate,149877-41-8,H373 | H317 | H400 | H410 |,M=1 | M=1 |
+607-716-00-8,bromadiolone (ISO); 3-[3-(4′-bromobiphenyl-4-yl)-3-hydroxy-1-phenylpropyl]-4-hydroxy-2H-chromen-2-one,28772-56-7,H360D | H330 | H310 | H300 | H372 (blood) | H400 | H410 |,"Repr. 1B; H360D: C ≥ 0,003 % | STOT RE 1; H372: C ≥ 0,005 % | STOT RE 2; H373: 0,0005 % ≤ C < 0,005 % | M=1 | M=1 |"
+607-717-00-3,"difethialone (ISO); | 3-[3-(4′-bromobiphenyl-4-yl)-1,2,3,4-tetrahydronaphthalen-1-yl]-4-hydroxy-2H-1-benzothiopyran-2-one",104653-34-1,H360D | H330 | H310 | H300 | H372 (blood) | H400 | H410 |,"Repr. 1B; H360D: C ≥ 0,003 % | STOT RE 1; H372: C ≥ 0,02 % | STOT RE 2; H373: 0,002 % ≤ C < 0,02 % | M=100 | M=100 |"
+607-722-00-0,"2,3,5,6-tetrafluoro-4-(methoxymethyl)benzyl (Z)-(1R,3R)-3-(2-cyanoprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate; | epsilon-momfluorothrin",1065124-65-3,H302 | H371 (nervous system) | H400 | H410 |,M=100 | M=100 |
+607-723-00-6,"tefluthrin (ISO); | 2,3,5,6-tetrafluoro-4-methylbenzyl (1RS,3RS)-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropanecarboxylate",79538-32-2,H330 | H310 | H300 | H400 | H410 |,M=10000 | M=10000 |
+607-724-00-1,"2,3,5,6-tetrafluoro-4-(methoxymethyl)benzyl (1R,3R)-2,2-dimethyl-3-[(1Z)-prop-1-en-1-yl] cyclopropanecarboxylate; | epsilon-metofluthrin",240494-71-7,H301 | H332 | H370 (nervous system) | H373 | H400 | H410 |,M=100 | M=100 |
+607-725-00-7,"isopropyl (2E,4E,7S)-11-methoxy-3,7,11-trimethyldodeca-2,4-dienoate; | S-methoprene",65733-16-6,H400 | H410 |,M=1 | M=1 |
+607-726-00-2,"pinoxaden (ISO); | 8-(2,6-diethyl-4-methylphenyl)-7-oxo-1,2,4,5-tetrahydro-7H-pyrazolo[1,2-d][1,4,5]oxadia­zepin-9-yl 2,2-dimethylpropanoate",243973-20-8,H361d | H332 | H302 | H335 | H319 | H317 | H400 | H412 |,Inhalation: ATE = 4.63 mg/L (dusts/mists) | Oral: ATE = 500 mg/kg bw | M=1 |
+607-727-00-8,"tetramethrin (ISO); | (1,3-dioxo-1,3,4,5,6,7-hexahydro-2H-isoindol-2-yl)methyl 2,2-dimethyl-3-(2-methylprop-1-en-1-yl)cyclopropanecarboxylate",7696-12-0,H351 | H302 | H371 (nervous system) (Inhalation) | H400 | H410 |,M=100 | M=100 |
+607-728-00-3,"(1,3,4,5,6,7-hexahydro-1,3-di­oxo-2H-isoindol-2-yl)methyl (1R-trans)-2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropanecarboxylate",1166-46-7,H351 | H302 | H371 (nervous system) (Inhalation) | H400 | H410 |,M=100 | M=100 |
+607-729-00-9,"mesosulfuron-methyl (ISO); | methyl 2-[(4,6-dimethoxypyrimidin-2-ylcarbamoyl)sulfamoyl]-α-(methanesulfonamido)-p-toluate;",208465-21-8,H400 | H410 |,M=100 | M=100 |
+607-730-00-4,"spirodiclofen (ISO); | 3-(2,4-dichlorophenyl)-2-oxo-1-oxaspiro[4.5]dec-3-en-4-yl 2,2-dimethylbutyrate",148477-71-8,H350 | H361f | H373 | H317 | H410 |,M=10 |
+607-731-00-X,sodium methyl [(4-aminophenyl)sulphonyl]carbamate; sodium methyl (EZ)-sulfanilylcarbonimidate; asulam-sodium,2302-17-2,H317 | H400 | H410 |,M=1 | M=1 |
+607-738-00-8,MCPA-thioethyl (ISO); S-ethyl   (4-chloro-2- methylphenoxy)etha­nethioate; S-ethyl 4- chloro-o-tolylox­ythioacetate,25319-90-8,H302 | H373 (liver) | H400 | H410 |,Oral: ATE = 450 mg/kg bw | M=10 | M=10 |
+607-741-00-4,"4-{[(6-chloropyridin-3-yl)methyl](2,2-di­fluoroethyl)amino}furan-2(5H)-one; flupyra­difurone",951659-40-8,H302 | H373 (muscle) | H400 | H410 |,Oral: ATE = 500 mg/kg bw | M=10 | M=10 |
+607-742-00-X,"thiencarbazone-methyl (ISO); methyl   4-[(4,5-dihydro-3-methoxy-4- methyl-5-oxo-1H-1,2,4-triazol-1-yl)carbonylsulfamoyl]-5- methylthiophene-3- carboxylate",317815-83-1,H400 | H410 |,M=1000 | M=1000 |
+607-747-00-7,"2,2-dibromo-2-cyanoacetamide; [DBNPA]",10222-01-2,"H330 | H301 | H372 (respiratory tract, inhalation) | H315 | H318 | H317 | H400 | H410 |",Inhalation: ATE = 0.24 mg/L (dusts/mists) | Oral: ATE = 118 mg/kg bw | M=1 | M=1 |
+607-748-00-2,"[S-(Z,E)]-5-(1-hydroxy-2,6,6-trimethyl-4-oxocyclohex-2-en-1-yl)-3-methylpenta-2,4-dienoic acid; | S-abscisic acid",21293-29-8,H400 | H410 |,M=1 | M=1 |
+607-751-00-9,"ethametsulfuron-methyl (ISO); | methyl 2-({[4-ethoxy-6-(methylamino)-1,3,5-triazin-2-yl]carbamoyl}sulfamoyl)benzoate",97780-06-8,H319 | H400 | H410 |,M=1000 | M=100 |
+607-752-00-4,"trinexapac-ethyl (ISO); | ethyl 4-[cyclopropyl(hydroxy)methylene]-3,5-dioxocyclohexanecarboxylate",95266-40-3,H373 (gastrointestinal tract) | H317 | H410 |,M=1 |
+607-755-00-0,(RS)-1-{1-ethyl-4-[4-mesyl-3-(2-methoxyethoxy)-o-toluoyl]pyrazol-5-yloxy}ethyl methyl carbonate; | tolpyralate,1101132-67-5,H351 | H361fd | H373 (eye) | H400 | H410 |,M=10 | M=100 |
+607-758-00-7,"4,4'-oxydi(benzenesulphonohydrazide)",80-51-3,H242 | H400 | H410,M=1 | M=1
+608-006-00-0,"bromoxynil (ISO); 3,5-dibromo-4-hydroxybenzonitrile; bromoxynil phenol",1689-84-5,H361d *** | H330 | H301 | H317 | H400 | H410 |,M=10 |
+608-007-00-6,"ioxynil (ISO); 4-hydroxy-3,5-diiodobenzonitrile",1689-83-4,H361d *** | H331 | H301 | H312 | H373 ** | H319 | H400 | H410 |,M=10 |
+608-014-00-4,chlorothalonil (ISO); tetrachloroisophthalonitrile,1897-45-6,H351 | H330 | H335 | H318 | H317 | H400 | H410 |,M=10 |
+608-017-00-0,"bromoxynil octanoate (ISO); 2,6-dibromo-4-cyanophenyl octanoate",1689-99-2,H361d *** | H331 | H302 | H317 | H400 | H410 |,M=10 |
+608-018-00-6,"ioxynil octanoate (ISO); 4-cyano-2,6-diiodophenyl octanoate",3861-47-0,H361d *** | H301 | H319 | H317 | H400 | H410 |,M=10 |
+608-034-00-3,chlorfenapyr (ISO); 4-bromo-2-(4-chlorophenyl)-1-ethoxymethyl-5-trifluoromethylpyrrole-3-carbonitrile,122453-73-0,H331 | H302 | H400 | H410 |,M=100 |
+608-055-00-8,"fipronil (ISO); (±)-5-amino-1-(2,6-dichloro-α,α,α-trifluoro-para-tolyl)-4-trifluoromethylsulfinyl-pyrazole-3-carbonitrile",120068-37-3,H331 | H311 | H301 | H372 * | H400 | H410 |,M=1000 | M=10000 |
+608-058-00-4,esfenvalerate (ISO); | (S)-α-cyano- 3-phenoxybenzyl-(S)- 2-(4-chlorophenyl)- 3-methylbutyrate,66230-04-4,H331 | H301 | H370 (nervous system) | H373 | H317 | H400 | H410 |,Inhalation: ATE = 0.53 mg/L (dusts/mists) | Oral: ATE = 88.5 mg/kg bw | M=10000 | M=10000 |
+608-065-00-2,salts of bromoxynil with the exception of those specified elsewhere in this Annex,,H361d *** | H330 | H301 | H317 | H400 | H410 |,M=10 |
+608-066-00-8,salts of ioxynil with the exception of those specified elsewhere in this Annex,,H361d *** | H331 | H301 | H312 | H373 ** | H319 | H400 | H410 |,M=10 |
+608-068-00-9,"flutianil (ISO); | (2Z)-{[2-fluoro-5-(trifluoro­methyl)phenyl]thio}[3-(2-methoxyphenyl)-1,3-thiazolidin-2-ylidene]acetonitrile",958647-10-4,H410 |,M=100 |
+608-069-00-4,"fludioxonil (ISO); 4-(2,2-difluoro-1,3-benzodioxol-4-yl)-1H-pyrrole-3-carbonitrile",131341-86-1,H400 | H410 |,M=1 | M=10 |
+609-023-00-6,"dinocap (ISO); (RS)-2,6-dinitro-4-octylphenyl crotonates and (RS)-2,4-dinitro-6-octylphenyl crotonates in which “octyl” is a reaction mass of 1-methylheptyl, 1-ethylhexyl and 1-propylpentyl groups",39300-45-3,H360D *** | H332 | H302 | H373 ** | H315 | H317 | H400 | H410 |,M=100 |
+609-046-00-1,"trifluralin (ISO) (containing < 0.5 ppm NPDA); α,α,α-trifluoro-2,6-dinitro-N,N-dipropyl-p-toluidine (containing < 0.5 ppm NPDA); 2,6-dinitro-N,N-dipropyl-4-trifluoromethylaniline (containing < 0.5 ppm NPDA); N,N-dipropyl-2,6-dinitro-4-trifluoromethylaniline (containing < 0.5 ppm NPDA)",1582-09-8,H351 | H317 | H400 | H410 |,M=10 |
+609-064-00-X,"mesotrione (ISO); 2-[4-(methylsulfonyl)-2-nitrobenzoyl]-1,3-cyclohexanedione",104206-82-8,"H361d | H373 (eyes, nervous system) | H400 | H410 |",M=10 | M=10 |
+611-140-00-2,"azafenidin (ISO); 2-(2,4-dichloro-5-prop-2-ynyloxyphenyl)-5,6,7,8-tetrahydro-1,2,4-triazolo[4,3-a]pyridin-3(2H)-one",68049-83-2,H360Df | H373 ** | H400 | H410 |,M=1000 |
+612-086-00-2,"amitraz (ISO); N,N-bis(2,4-xylyliminomethyl) methylamine",33089-61-1,H302 | H373 ** | H317 | H400 | H410 |,M=10 |
+612-120-00-6,aclonifen (ISO); 2-chloro-6-nitro-3-phenoxyaniline,74070-46-5,H351 | H317 | H400 | H410 |,M=100 | M=10 |
+612-150-00-X,"spiroxamine (ISO); 8-tert-butyl-1,4-dioxaspiro[4.5]decan-2-ylmethyl(ethyl)(propyl)amine",118134-30-8,H361d | H332 | H312 | H302 | H373 (eye) | H315 | H317 | H400 | H410 |,M=100 | M=100 |
+612-242-00-X,cyprodinil (ISO); 4-cyclopropyl-6-methyl-N-phenylpyrimidin-2-amine,121552-61-2,H317 | H400 | H410 |,M=10 |
+612-243-00-5,"(1S-cis)-4-(3,4-dichlorophenyl)-1,2,3,4-tetrahydro-N-methyl-1-naphthalenamine 2-hydroxy-2-phenylacetate",79617-97-3,H318 | H400 | H410 |,M=10 |
+612-245-00-6,2-ethylphenylhydrazine hydrochloride,19398-06-2,H351 | H302 | H372 ** | H318 | H317 | H400 | H410 |,M=10 |
+612-252-00-4,imidacloprid (ISO); | (E)-1-(6-chloro- 3-pyridylmethyl)-N-nitroimidazolidin-2-ylideneamine;(2E)-1-[(6-chloropyridin- 3-yl) methyl]-N-nitroimidazolidin-2-imine,138261-41-3,H301 | H400 | H410 |,Oral: ATE = 131 mg/kg bw | M=100 | M=1000 |
+612-261-00-3,"3,5-dichloro-2-fluoro-4-(1,1,2,3,3,3-hexafluoropropoxy)aniline",121451-05-6,H302 | H317 | H400 | H410 |,M=10 |
+612-275-00-X,"fatty acids, C18-unsatd.,  dimers, reaction products with 1-piperazineethanamine and tall oil",206565-89-1,H315 | H318 | H317 | H400 | H410 |,M=10 |
+612-282-00-8,octadecylamine,124-30-1,"H304 | H373 (gastro-intestinal tract, liver, immune system) | H315 | H318 | H400 | H410 |",M=10 | M=10 |
+612-283-00-3,(Z)-octadec-9-enylamine,112-90-3,"H302 | H304 | H335 | H373 (gastro-intestinal tract, liver, immune system) | H314 | H400 | H410 |",M=10 | M=10 |
+612-284-00-9,"amines, hydrogenated tallow alkyl",61788-45-2,"H304 | H373 (gastro-intestinal tract, liver, immune system) | H315 | H318 | H400 | H410 |",M=10 | M=10 |
+612-285-00-4,"amines, coco alkyl",61788-46-3,H302 | H304 | H335 | H373 | H314 | H400 | H410 |,M=10 | M=10 |
+612-286-00-X,"amines, tallow alkyl",61790-33-8,"H302 | H304 | H373 (gastro-intestinal tract, liver, immune system) | H314 | H400 | H410 |",M=10 | M=10 |
+612-287-00-5,"fluazinam (ISO); 3-chloro-N-[3-chloro-2,6-dinitro-4-(trifluoromethyl)phenyl]-5-(trifluoromethyl)pyridin-2-amine",79622-59-6,H361d | H332 | H318 | H317 | H400 | H410 |,M=10 | M=10 |
+612-288-00-0,bupirimate (ISO); 5-butyl-2-ethylamino-6-methylpyrimidin-4-yl dimethylsulphamate,41483-43-6,H351 | H317 | H410 |,M=1 |
+612-289-00-6,triflumizole (ISO); (1E)-N-[4-chloro-2-(trifluoromethyl)phenyl]-1-(1H-imidazol-1-yl)-2-propoxyethanimine,68694-11-1,H360D | H302 | H373 (liver) | H317 | H400 | H410 |,M=1 | M=1 |
+612-294-00-3,"mecetronium etilsul­fate; N-ethyl-N,N-dimethyl­hexadecan-1-aminium ethyl sulfate; mecetronium ethyl sulphate; [MES]",3006-10-8,H314 | H318 | H400 | H410 |,M=100 | M=1000 |
+613-010-00-0,"ametryn (ISO); N-ethyl-N'-isopropyl-6-(methylthio)-1,3,5-triazine-2,4-diamine",834-12-8,H302 | H400 | H410 |,M=100 |
+613-016-00-3,fuberidazole (ISO); 2-(2-furyl)-1H-benzimidazole,3878-19-1,H351 | H302 | H373 (heart) | H317 | H400 | H410 |,M=1 |
+613-042-00-5,"imazalil (ISO); 1-[2-(allyloxy)-2-(2,4-dichlorophenyl)ethyl]-1H-imidazole",35554-44-0,H351 | H301 | H332 | H318 | H410 |,M=10 |
+613-044-00-6,"captan (ISO); 1,2,3,6-tetrahydro-N-(trichloromethylthio)phthalimide",133-06-2,H351 | H331 | H318 | H317 | H400 |,M=10 |
+613-045-00-1,folpet (ISO); N-(trichloromethylthio)phthalimide,133-07-3,H351 | H332 | H319 | H317 | H400 |,M=10 |
+613-048-00-8,carbendazim (ISO); | methyl benzimidazol-2-ylcarbamate,10605-21-7,H340 | H360FD | H317 | H400 | H410 |,M=10 | M=10 |
+613-049-00-3,benomyl (ISO); methyl 1-(butylcarbamoyl)benzimidazol-2-ylcarbamate,17804-35-2,H340 | H360FD | H335 | H315 | H317 | H400 | H410 |,M=10 |
+613-051-00-4,molinate (ISO); S-ethyl 1-perhydroazepinecarbothioate; S-ethyl perhydroazepine-1-carbothioate,2212-67-1,H351 | H361f *** | H332 | H302 | H373 ** | H317 | H400 | H410 |,M=100 |
+613-054-00-0,thiabendazole (ISO); 2-(thiazol-4-yl)benzimidazole,148-79-8,H400 | H410 |,M=1 | M=1 |
+613-057-00-7,"dodemorph (ISO); 4-cyclododecyl-2,6-dimethylmorpholine",1593-77-7,H361d | H373 (liver) | H314 | H317 | H400 | H410 |,M=1 | M=1 |
+613-058-00-2,"permethrin (ISO); m-phenoxybenzyl 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate",52645-53-1,H332 | H302 | H317 | H400 | H410 |,M=1000 |
+613-060-00-3,resmethrin (ISO); 5-benzyl-3-furylmethyl (±)-cis-trans-chrysanthemate,10453-86-8,H302 | H400 | H410 |,M=1000 |
+613-112-00-5,octhilinone (ISO); 2-octyl-2H-isothiazol-3-one; [OIT],26530-20-1,H330 | H311 | H301 | H314 | H318 | H317 | H400 | H410 |,"Inhalation: ATE = 0.27 mg/L (dusts/mists) | Dermal: ATE = 311 mg/kg bw | Oral: ATE = 125 mg/kg bw | Skin Sens. 1A; : C ≥ ,0015 % | M=100 | M=100 |"
+613-116-00-7,tolylfluanid (ISO); dichloro-N- [(dimethylamino)sulphonyl]fluoro-N-(p-tolyl)methanesulphenamide; [containing ≥ 0.1 % (w/w) of particles with an aerodynamic diameter of below 50 µm],731-27-1,H330 | H335 | H372 ** | H315 | H319 | H317 | H400 |,M=10 |
+613-116-01-4,tolylfluanid (ISO); dichloro-N-[(dimethylamino)sulphonyl]fluoro-N-(p-tolyl)methanesulphenamide; [containing < 0.1% (w/w) of particles with an aerodynamic diameter of below 50 μm],731-27-1,H335 | H315 | H319 | H317 | H400 |,M=10 |
+613-120-00-9,"bioresmethrin (ISO); (5-benzyl-3-furyl)methyl (1R)-2,2-dimethyl-3-(2-methylprop-1-en-1-yl)cyclopropanecarboxylate",28434-01-7,H400 | H410 |,M=1000 |
+613-121-00-4,"chlorsulfuron (ISO); 2-chloro-N-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino]carbonyl]benzenesulphonamide",64902-72-3,H400 | H410 |,M=1000 | M=100 |
+613-125-00-6,hexythiazox (ISO); trans-5-(4-chlorophenyl)-N-cyclohexyl-4-methyl-2-oxo-3-thiazolidine-carboxamide,78587-05-0,H400 | H410 |,M=1 | M=1 |
+613-133-00-X,"etridiazole (ISO); 5-ethoxy-3-trichloromethyl-1,2,4-thiadiazole",2593-15-9,H351 | H302 | H317 | H400 | H410 |,M=1 | M=1 |
+613-139-00-2,"metsulfuron-methyl (ISO); methyl 2-{[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)carbamoyl]sulfamoyl}benzoate",74223-64-6,H400 | H410 |,M=1000 |
+613-149-00-7,pyridaben (ISO); 2-tert-butyl-5-(4-tert-butylbenzylthio)-4-chloropyridazin-3(2H)-one,96489-71-3,H331 | H301 | H400 | H410 |,M=1000 | M=1000 |
+613-163-00-3,"azimsulfuron (ISO); 1-(4,6-dimethoxypyrimidin-2-yl)-3-[1-methyl-4-(2-methyl-2H-tetrazol-5-yl)pyrazol-5-ylsulfonyl]urea",120162-55-2,H400 | H410 |,M=1000 |
+613-164-00-9,"flufenacet (ISO); N-(4-fluorophenyl)-N-isopropyl-2-(5-trifluoromethyl-[1,3,4]thiadiazol-2-yloxy)acetamide",142459-58-3,H302 | H373 ** | H317 | H400 | H410 |,M=100 |
+613-165-00-4,"flupyrsulfuron-methyl-sodium (ISO); methyl 2-[[(4,6-dimethoxypyrimidin-2-ylcarbamoyl)sulfamoyl]-6-trifluoromethyl]nicotinate, monosodium salt",144740-54-5,H400 | H410 |,M=100 |
+613-166-00-X,"flumioxazin (ISO); | N-(7-fluoro-3,4-dihydro- 3-oxo-4-prop- 2-ynyl-2H-1,4-benzoxazin- 6-yl)cyclohex- 1-ene-1,2-dicarboximide",103361-09-7,H361d | H400 | H410 |,M=1000 | M=1000 |
+613-167-00-5,reaction mass of 5-chloro-2-methyl-2H-isothiazol-3-one and 2-methyl-2H-isothiazol-3-one (3:1),55965-84-9,H330 | H310 | H301 | H314 | H318 | H317 | H400 | H410 |,"Skin Corr. 1C; : C ≥ ,6 % | Skin Irrit. 2; H315: ,06 % ≤ C < ,6 % | Eye Dam. 1; : C ≥ ,6 % | Eye Irrit. 2; H319: ,06 % ≤ C < ,6 % | Skin Sens. 1A; : C ≥ ,0015 % | M=100 | M=100 |"
+613-169-00-6,9-vinylcarbazole,1484-13-5,H341 | H312 | H302 | H315 | H317 | H400 | H410 |,M=100 |
+613-202-00-4,"pymetrozine (ISO); (E)-4,5-dihydro-6-methyl-4-(3-pyridylmethyleneamino)-1,2,4-triazin-3(2H)-one",123312-89-0,H351 | H361fd | H410 |,M=1 |
+613-203-00-X,pyraflufen-ethyl (ISO); 2-chloro-5-(4-chloro-5-difluoromethoxy-1-methylpyrazol-3-yl)-4-fluorophenoxyacetic acid ethyl ester [1] | pyraflufen (ISO); 2-chloro-5-(4-chloro-5-difluoromethoxy-1-methylpyrazol-3-yl)-4-fluorophenoxyacetic acid  [2] |,129630-19-9 [1] | 129630-17-7 [2] |,H400 | H410 |,M=1000 |
+613-204-00-5,"oxadiargyl (ISO); 3-[2,4-dichloro-5-(2-propynyloxy)phenyl]-5-(1,1-dimethylethyl)-1,3,4-oxadiazol-2(3H)-one",39807-15-3,H361d *** | H373 ** | H400 | H410 |,M=1000 |
+613-205-00-0,"propiconazole (ISO); | (2RS,4RS;2RS,4SR)-1-{[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl}-1H-1,2,4-triazole",60207-90-1,H360D | H302 | H317 | H400 | H410 |,M=1 | M=1 |
+613-208-00-7,imazamox (ISO); | (RS)-2-(4-isopropyl-4-methyl-5-oxo-2-imidazolin-2-yl)-5-methoxymethylnicotinic acid,114311-32-9,H361d | H400 | H410 |,M=10 | M=10 |
+613-259-00-5,"imiprothrin (ISO); reaction mass of: [2,4-dioxo-(2-propyn-1-yl)imidazolidin-3-yl]methyl(1R)-cis-chrysanthemate; [2,4-dioxo-(2-propyn-1-yl)imidazolidin-3-yl]methyl(1R)-trans-chrysanthemate",72963-72-5,"H351 | H332 | H302 | H371 (nervous system; oral, inhalation) | H400 |  |",Inhalation: ATE = 1.4 mg/L (dusts/mists) | Oral: ATE = 550 mg/kg bw | M=10 | M=10 |
+613-267-00-9,"thiamethoxam (ISO); | 3-(2-chloro-thiazol-5-ylmethyl)-5-methyl[1,3,5]oxadiazinan-4-ylidene-N-nitroamine",153719-23-4,H361fd | H302 | H400 | H410 |,Oral: ATE = 780 mg/kg bw | M=10 | M=10 |
+613-271-00-0,"tritosulfuron (ISO) (containing ≤ 0,02% AMTT); 1-[4-methoxy-6-(trifluoromethyl)-1,3,5-triazin-2-yl]-3-[2-(trifluoromethyl)benzenesulfonyl]urea (containing ≤ 0,02% AMTT)",142469-14-5,H317 | H400 | H410 |,M=10 |
+613-272-00-6,pyraclostrobin (ISO); methyl N-{2-[1-(4-chlorophenyl)-1H-pyrazol-3-yloxymethyl]phenyl}(N-methoxy)carbamate,-,H331 | H315 | H400 | H410 |,M=100 |
+613-282-00-0,"triticonazole (ISO); | (RS)-(E)-5-(4-chlorobenzylidene)-2,2-dimethyl-1-(1H-1,2,4-triazol-1-methyl)cyclopentanol",138182-18-0,H361f | H373 | H400 | H410 |,M=1 | M=1 |
+613-317-00-X,"penconazole (ISO); 1-[2-(2,4-dichlorophenyl)pentyl]-1H-1,2,4-triazole",66246-88-6,H361d | H302 | H400 | H410 |,M=1 | M=1 |
+613-318-00-5,"fenpyrazamine (ISO); S-allyl 5-amino-2,3-dihydro-2-isopropyl-3-oxo-4-(o-tolyl)pyrazole-1-carbothioate; S-allyl 5-amino-2-isopropyl-4-(2-methylphenyl)-3-oxo-2,3-dihydropyrazole-1-carbothioate",473798-59-3,H400 | H410 |,M=10 | M=1 |
+613-320-00-6,"lenacil (ISO); 3-cyclohexyl-6,7-dihydro-1H-cyclopenta[d]pyrimidine-2,4(3H,5H)-dione",2164-08-1,H351 | H400 | H410 |,M=10 | M=10 |
+613-321-00-1,"(RS)-4-[1-(2,3-dimethylphenyl)ethyl]-1H-imidazole; | medetomidine",86347-14-0,H330 | H300 | H336 | H370 (eye) | H372 | H400 | H410 |,M=1 | M=100 |
+613-323-00-2,"terbuthylazine (ISO); | N-tert-butyl-6-chloro-N′-ethyl-1,3,5-triazine-2,4-diamine",5915-41-3,H302 | H373 | H400 | H410 |,M=10 | M=10 |
+613-324-00-8,quinolin-8-ol; | 8-hydroxyquinoline,148-24-3,H360D | H301 | H318 | H317 | H400 | H410 |,M=1 | M=1 |
+613-325-00-3,"thiacloprid (ISO); | (Z)-3-(6-chloro-3-pyridylmethyl)-1,3-thiazolidin-2-ylidenecyanamide; | {(2Z)-3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene}cyanamide",111988-49-9,H351 | H360FD | H301 | H332 | H336 | H400 | H410 |,M=100 | M=100 |
+613-326-00-9,2-methylisothiazol-3(2H)-one,2682-20-4,H330 | H311 | H301 | H314 | H318 | H317 | H400 | H410 |,"Skin Sens. 1A; H317: C ≥ 0,0015 % | M=10 | M=1 |"
+613-327-00-4,"pyroxsulam (ISO); | N-(5,7-dimethoxy[1,2,4]triazolo[1,5-a]pyrimidin-2-yl)-2-methoxy-4-(trifluoromethyl) pyridine-3-sulfonamide",422556-08-9,H317 | H400 | H410 |,M=100 | M=100 |
+613-329-00-5,"halosulfuron-methyl (ISO); | methyl 3-chloro-5-{[(4,6-dimethoxypyrimidin-2-yl)carbamoyl]sulfamoyl}-1-methyl-1H-pyrazole-4-carboxylate",100784-20-1,H360D | H400 | H410 |,M=1000 | M=1000 |
+613-331-00-6,"(2RS)-2-[4-(4-chloro­phenoxy)-2-(trifluoromethyl)phenyl]-1-(1H- 1,2,4-triazol-1-yl)propan-2-ol; mefentrifluconazole",1417782-03-6,H317 | H400 | H410 |,M=1 | M=1 |
+613-332-00-1,"oxathiapiprolin (ISO); 1-(4-{4-[5-(2,6-di­fluorophenyl)-4,5-di­hydro-1,2-oxazol-3- yl]-1,3-thiazol-2-yl}piperidin-1-yl)-2-[5- methyl-3-(trifluoro­methyl)-1H-pyrazol-1-yl]ethanone",1003318-67-9,H410 |,M=1 |
+613-333-00-7,pyrithione zinc; (T-4)- bis[1-(hydroxy-.kappa.O)pyridine-2(1H)- thionato-.kappa.S]zinc,13463-41-7,H360D | H330 | H301 | H372 | H318 | H400 | H410 |,Inhalation: ATE = 0.14 mg/L (dusts/mists) | Oral: ATE = 221 mg/kg bw | M=1000 | M=10 |
+613-334-00-2,flurochloridone (ISO); 3-chloro-4-(chloro­methyl)-1-[3-(trifluor­omethyl)phenyl]pyrrolidin-2-one,61213-25-0,H360FD | H302 | H317 | H400 | H410 |,Oral: ATE = 500 mg/kg bw | M=100 | M=100 |
+613-335-00-8,"4,5-dichloro-2-octyl- 2H-isothiazol-3-one; [DCOIT]",64359-81-5,H330 | H302 | H314 | H318 | H317 | H400 | H410 |,"Inhalation: ATE = 0.16 mg/L (dusts/mists) | Oral: ATE = 567 mg/kg bw | Skin Irrit. 2; H315: 0,025 % ≤ C < 5 % | Eye Irrit. 2; H319: 0,025 % ≤ C < 3 % | Skin Sens. 1A; H317: C ≥ 0,0015 % | M=100 | M=100 |"
+613-336-00-3,"2-methyl-1,2-ben­zothiazol-3(2H)-one; [MBIT]",2527-66-4,H301 | H312 | H314 | H318 | H317 | H400 | H411 |,"Oral: ATE = 175 mg/kg bw | Dermal: ATE = 1100 mg/kg bw | Skin Sens. 1A; H317: C ≥ 0,0015 % | M=1 |"
+613-337-00-9,"prothioconazole (ISO); | 2-[2-(1-chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-2,4-dihydro-3H-1,2,4-triazole-3-thione",178928-70-6,H400 | H410 |,M=10 | M=1 |
+613-338-00-4,"azamethiphos (ISO); S-[(6-chloro-2-oxooxazolo[4,5-b]pyridin-3(2H)-yl)methyl] O,O-dimethyl thiophosphate",35575-96-3,H351 | H331 | H302 | H370 (nervous system) | H317 | H400 | H410 |,Inhalation: ATE = 0.5 mg/L (dusts/mists) | Oral: ATE = 500 mg/kg bw | M=1000 | M=1000 |
+613-340-00-5,"clomazone (ISO); 2-(2-chlorobenzyl)-4,4-dimethyl-1,2-oxazolidin-3-one",81777-89-1,H332 | H302 | H400 | H410 |,Inhalation: ATE = 4.85 mg/L (dusts/mists) | Oral: ATE = 768 mg/kg bw | M=1 | M=1 |
+613-341-00-0,"clofentezine (ISO); 3,6-bis(o-chlorophenyl)-1,2,4,5-tetrazine",74115-24-5,H410,M=1
+613-343-00-1,"pyridalyl (ISO); 2,6-dichloro-4-(3,3-dichloroallyloxy)phenyl 3-[5-(trifluoromethyl)-2-pyridyloxy]propyl ether",179101-81-6,H317 | H400 | H410,M=1000 | M=100
+613-344-00-7,"Pyridine-2-thiol 1-oxide, sodium salt; pyrithione sodium; sodium pyrithione",3811-73-2 | 15922-78-8,H331 | H311 | H302  | H372 (nervous system) | H315 | H319 | H317 | H400 | H411,"inhalation: | ATE = 0,5mg/L (dusts or mists) | dermal: | ATE = 790 mg/kg bw | oral: | ATE = 500 mg/kg bw | M=100"
+614-030-00-2,"emamectin benzoate (ISO); (4""R)-4""-deoxy-4""-(methylamino) avermectin B1 benzoate",155569-91-8,H331 | H311 | H301 | H370 (nervous system) | H372 (nervous system) | H318 | H400 | H410 |,"Inhalation: ATE = 0.663 mg/L (dusts/mists) | Dermal: ATE = 300 mg/kg bw | Oral: ATE = 60 mg/kg bw | STOT RE 1; H372: C ≥ 5 % | STOT RE 2; H373: 0,5 % ≤ C < 5 % | M=10000 | M=10000 |"
+616-006-00-7,"dichlofluanid (ISO); N-[(dichlorofluoromethyl)thio]-N′,N′-dimethyl-N-phenylsulfamide",1085-98-9,H332 | H319 | H317 | H400 |,M=10 |
+616-009-00-3,"propanil (ISO); 3',4'-dichloropropionanilide",709-98-8,H302 | H400 |,M=10 |
+616-015-00-6,"alachlor (ISO); 2-chloro-2',6'-diethyl-N-(methoxymethyl)acetanilide",15972-60-8,H351 | H302 | H317 | H400 | H410 |,M=10 |
+616-032-00-9,"diflufenican (ISO); | N-(2,4-difluorophenyl)-2-[3-(trifluoromethyl)phenoxy]-3-pyridinecarboxamide; | 2′,4′-difluoro-2-(α,α,α- trifluoro-m-tolyloxy) nicotinanilide; N-(2,4-difluorophenyl)-2-[3-(trifluoromethyl)phenoxy]-3-pyridinecarboxamide",83164-33-4,H400 | H410 |,M=10000 | M=1000 |
+616-037-00-6,acetochlor (ISO); 2-chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)acetamide,34256-82-1,H351 | H361f | H332 | H335 | H373 (kidney) | H315 | H317 | H400 | H410 |,M=1000 | M=100 |
+616-106-00-0,phenmedipham (ISO); | methyl 3-(3-methylcarbaniloyloxy)carbanilate,13684-63-4,H400 | H410 |,M=10 | M=10 |
+616-113-00-9,desmedipham (ISO); | ethyl 3-phenylcarbamoyloxyphenylcarbamate,13684-56-5,H361d | H400 | H410 |,M=10 | M=10 |
+616-141-00-1,"zoxamide (ISO); (RS)-3,5-dichloro-N-(3-chloro-1-ethyl-1-methyl-2-oxopropyl)-p-toluamide",156052-68-5,H317 | H400 | H410 |,M=10 |
+616-145-00-3,pethoxamide (ISO); 2-chloro-N-(2-ethoxyethyl)-N-(2-methyl-1-phenylprop-1-enyl)acetamide,106700-29-2,H302 | H317 | H400 | H410 |,M=100 |
+616-165-00-2,"beflubutamid (ISO); (RS)-N-benzyl-2-(α,α,α,4-tetrafluoro-m-tolyoxy)butyramide",113614-08-7,H400 | H410 |,M=100 |
+616-166-00-8,"cyazofamid (ISO); 4-chloro-2-cyano-N,N-dimethyl-5-p-tolylimidazole-1-sulfonamide",120116-88-3,H400 | H410 |,M=10 |
+616-205-00-9,"Metazachlor (ISO); 2-chloro-N-(2,6-dimethylphenyl)-N-(1H-pyrazol-1-ylmethyl)acetamide",67129-08-2,H351 | H317 | H400 | H410 |,M=100 | M=100 |
+616-206-00-4,"flufenoxuron (ISO); 1-(4-(2-cloro-α,α,α-p-trifluorotolyloxy)-2-fluorophenyl)-3-(2,6-difluorobenzolyl)urea",101463-69-8,H362 | H400 | H410 |,M=10000 | M=10000 |
+616-207-00-X,polyhexamethylene biguanide hydrochloride; PHMB [1] | PHMB [2] |,32289-58-0 [1] | 27083-27-8 [2] |,H351 | H330 | H302 | H372 (respiratory tract) (inhalation) | H318 | H317 | H400 | H410 |,M=10 | M=10 |
+616-209-00-0,"amidosulfuron (ISO); 3-(4,6-dimethoxypyrimidin-2-yl)-1-((N-methyl-N-methylsulfonylamino)sulfonyl)urea",120923-37-7,H400 | H410 |,M=100 | M=100 |
+616-210-00-6,tebufenpyrad (ISO); N-(4-tertbutylbenzyl)-4-chloro-3-ethyl-1-methyl-1Hpyrazole-5- carboxamide,119168-77-3,H301 | H332 | H373 (gastro-intestinal tract) (oral) | H317 | H400 | H410 |,M=10 | M=10 |
+616-211-00-1,proquinazid (ISO); 6-iodo-2-propoxy-3-propylquinazolin-4(3H)-one,189278-12-4,H351 | H400 | H410 |,M=1 | M=10 |
+616-212-00-7,3-iodo-2-propynyl butylcarbamate; 3-iodoprop-2-yn-1-yl butylcarbamate,55406-53-6,H331 | H302 | H372 (larynx) | H318 | H317 | H400 | H410 |,M=10 | M=1 |
+616-213-00-2,mandipropamid (ISO); 2-(4-chlorophenyl)-N-{2-[3-methoxy-4-(prop-2-yn-1-yloxy)phenyl]ethyl}-2-(prop-2-yn-1-yloxy)acetamide,374726-62-2,H400 | H410 |,M=1 | M=1 |
+616-214-00-8,"metosulam (ISO); N-(2,6-dichloro-3-methylphenyl)-5,7-dimethoxy[1,2,4]triazolo[1,5-a]pyrimidine-2-sulfonamide",139528-85-1,"H351 | H373 (eyes, kidneys) | H400 | H410 |",M=1000 | M=100 |
+616-215-00-3,"dimethenamid-P (ISO); 2-chloro-N-(2,4-dimethyl-3-thienyl)-N-[(2S)-1-methoxypropan-2-yl]acetamide",163515-14-8,H302 | H317 | H400 | H410 |,M=10 | M=10 |
+616-217-00-4,sulfoxaflor (ISO); [methyl(oxo){1-[6-(trifluoromethyl)-3-pyridyl]ethyl}-λ6-sulfanylidene]cyanamide,946578-00-3,H302 | H400 | H410 |,M=1 | M=1 |
+616-218-00-X,"benzovindiflupyr (ISO); N-[9-(dichloromethylene)-1,2,3,4-tetrahydro-1,4-methanonaphthalen-5-yl]-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide",1072957-71-1,H331 | H301 | H400 | H410 |,M=100 | M=100 |
+616-220-00-0,pencycuron (ISO); 1-[(4-chlorophenyl)methyl]-1-cyclopentyl-3-phenylurea,66063-05-6,H400 | H410 |,M=1 | M=1 |
+616-221-00-6,"hexaflumuron (ISO); | 1-(3,5-dichloro-4-(1,1,2,2-tetrafluoroethoxy)phenyl)-3-(2,6-difluorobenzoyl)urea",86479-06-3,H400 | H410 |,M=1000 | M=10000 |
+616-222-00-1,"penthiopyrad (ISO); | (RS)-N-[2-(1,3-dimethylbutyl)-3-thienyl]-1-methyl-3-(trifluoromethyl)pyrazole-4-carboxamide",183675-82-3,H400 | H410 |,M=1 | M=1 |
+616-224-00-2,"amisulbrom (ISO); | 3-(3-bromo-6-fluoro-2-methylindol-1-ylsulfonyl)-N,N-dimethyl-1H-1,2,4-triazole-1-sulfonamide",348635-87-0,H351 | H319 | H400 | H410 |,M=10 | M=10 |
+616-225-00-8,"(RS)-2-methoxy-N-methyl-2-[α-(2,5-xylyloxy)-o-tolyl]acetamide; mandestrobin",173662-97-0,H400 | H410 |,M=1 | M=10 |
+616-226-00-3,"carboxin (ISO); | 2-methyl-N-phenyl-5,6-dihydro-1,4-oxathiine-3-carboxamide; | 5,6-dihydro-2-methyl-1,4-oxathiine-3-carboxanilide",5234-68-4,H373 (Kidneys) | H317 | H400 | H410 |,M=1 | M=1 |
+616-228-00-4,"3-(difluoromethyl)-1-methyl-N-(3',4',5'-tri­fluorobiphenyl-2-yl) pyrazole-4-carboxamide; fluxapyroxad",907204-31-3,H362 | H400 | H410 |,M=1 | M=1 |
+616-231-00-0,"5-fluoro-1,3-di­methyl-N-[2-(4-methylpentan-2-yl) phenyl]-1H-pyrazole-4-carboxamide; 2'-[(RS)-1,3-dimethylbutyl]-5-fluoro-1,3-di­methylpyrazole-4-carboxanilide; penflufen",494793-67-8,H351 | H400 | H410 |,M=1 | M=1 |
+616-234-00-7,"N-methoxy-N-[1-methyl-2-(2,4,6-trichlorophenyl)-ethyl]-3-(difluoromethyl)-1-methylpyrazole-4-carboxamide; pydiflumetofen",1228284-64-7,H351 | H361f | H400 | H410 |,M=1 | M=1 |
+616-235-00-2,"N-{2-[[1,1'-bi(cyclopropyl)]-2-yl]phenyl}-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide; sedaxane",874967-67-6,H351 | H400 | H411 |,M=1 |
+616-239-00-4,N-(5-chloro-2-isopropylbenzyl)-N-cyclopropyl-3-(difluoromethyl)-5-fluoro-1-methyl-1H-pyrazole-4-carboxamide; isoflucypram,1255734-28-1,H361f | H332 | H317 | H400 | H410,"inhalation: | ATE = 2,2 mg/L (dusts or mists) | M=10  | M=1"
+650-032-00-X,"cyproconazole (ISO); (2RS,3RS;2RS,3SR)-2-(4-chlorophenyl)-3-cyclopropyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol",94361-06-5,H360D | H301 | H373 (liver) | H400 | H410 |,M=10 | M=1 |
